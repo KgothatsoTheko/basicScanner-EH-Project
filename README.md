@@ -31,5 +31,4 @@ git clone https://github.com/KgothatsoTheko/basicScanner-EH-Project.git
 cd basicScanner
 python basicScanner.py
 
-![Screenshot (187)](https://github.com/user-attachments/assets/60f5982f-7678-4f55-9c2f-83e313a33eae)
-
+![Screenshot (187)](https://github.com/user-attachments/assets/5fa787ff-1bd6-4f03-9fa4-2da9754be913)
